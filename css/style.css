@@ -1,0 +1,42 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* ---------------------- navbar -------------------------- */
+.navbar-brand {
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.nav-link {
+    color: #3E3E3E !important;
+}
+
+
+/* ---------------------- carousel -------------------------- */
+.carousel-caption.d-none.d-md-block h2 {
+    font-size: 48px;
+    font-weight: 600;
+}
+
+/* packages */
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.fs-15 {
+    font-size: 15px;
+}
+
+.fa-check-circle {
+    color: #5243C2;
+}
+
+.packages li {
+    line-height: 2;
+}
+
+.btn-pink {
+    background-color: #F496D11a;
+}
